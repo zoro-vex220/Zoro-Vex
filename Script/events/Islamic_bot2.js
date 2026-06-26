@@ -1,8 +1,8 @@
 module.exports.config = {
-  name: "Islamic_bot2",
+  name: "BBY bot_2",
   eventType: ["log:user-nickname"],
   version: "0.0.1",
-  credits: "🔰𝐑𝐀𝐇𝐀𝐓 𝐈𝐒𝐋𝐀𝐌🔰",
+  credits: "🔰Zoro🔰",
   description: "bot nickname restore"
 };
 

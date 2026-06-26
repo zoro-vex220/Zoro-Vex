@@ -5,7 +5,7 @@ module.exports.config = {
 	name: "0admin",
 	version: "1.0.5",
 	hasPermssion: 3,
-	credits: "🔰𝐑𝐀𝐇𝐀𝐓 𝐈𝐒𝐋𝐀𝐌🔰",
+	credits: "🔰Zoro Vex🔰",
 	description: "Admin Config",
 	commandCategory: "Admin",
 	usages: "Admin [command] [@mention/reply/UID/link/name]",
